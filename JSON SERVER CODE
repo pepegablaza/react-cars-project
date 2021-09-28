@@ -1,0 +1,12 @@
+Enter in your editor's terminal, i use VisualStudioCode:
+
+For cars server:
+
+1. cd src
+2. npx json-server --watch data/cars.json --port 8000    
+
+
+For brands server:
+
+1. cd src
+2. npx json-server --watch data/brands.json --port 8001   
